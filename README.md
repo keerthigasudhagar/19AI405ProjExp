@@ -1,5 +1,5 @@
 # Implement a Sudoku Solver From Scratch
-## NAME:Keerthika  S
+## NAME:Keerthika S
 ## REG.NO:212223040093
 ## AIM:
 To implement a Sudoku solver using the backtracking algorithm to find the solution for the given Sudoku puzzle.
